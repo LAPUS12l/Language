@@ -1,0 +1,17 @@
+PRINTNEW "HELLO World" <- value
+^^^^^^^^
+keyword
+"this would not show of " <- what they called 'atom'
+IF 1 == 1 THEN
+^^ ^^^^^^ ^^^^
+statement agemument symbol
+	PRINT "1 = 1" <- value
+^^^ ^^^^^
+indent keyword
+END <- Statement
+DIM name = "JOHN" <- value
+^^^ ^^^^ ^
+keyword name symbol
+PRINTNEW ${NAME} <- value
+^^^^^^^^
+keyword

@@ -1,0 +1,21 @@
+1 : PRINTNEW <string>
+
+2 : PRINT <string>
+
+3 : IF <argument> <symbol> <body> <symbol>
+
+4 : DIM <name> <symbol> <value>
+
+5 : WHILE <argument> <symbol> <body> <symbol>
+
+6 : FOR <variable handler>, <range> <body> <symbol>
+
+7 : CONVERTINT <name>
+
+8 : CONVERTSTR <name>
+
+9 : INPUT <name>
+
+10 : LABEL <name> <symbol> <body> <symbol>
+
+11 : GOTO <name>
